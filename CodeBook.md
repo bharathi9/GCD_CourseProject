@@ -1,5 +1,7 @@
 ## DATA DICTIONARY - Final data set created for the Course Project of Getting and Cleaning Data course on Coursera offered by Prof.Leek at Johns Hopkins university
 
+If you look it in 'Raw' mode (button at the top right corner of the text window), it is formatted as intended. 
+
 Note: I do not understand the original data enough to elaborate on what exactly each column in this dataset represents. Please refer to the features_info.txt file in the original zip folder (link available in README.md file) for a more detailed description.
 
 * activiy 
