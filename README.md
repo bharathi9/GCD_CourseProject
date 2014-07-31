@@ -19,14 +19,14 @@ There is no mention of missing values anywhere. Since this data is the result of
 
 Before you start cleaning the data, please make sure that the following files are in your current working directory. They can be copied from the UCI HAR Dataset folder (when you extract the files from the downloaded zip file).
 
-*activity_labels.txt
-*features.txt
-*train/X_train.txt
-*train/y_train.txt
-*train/subject_train.txt
-*test/X_test.txt
-*test/y_train.txt
-*test/subject_test.txt
+* activity_labels.txt
+* features.txt
+* train/X_train.txt
+* train/y_train.txt
+* train/subject_train.txt
+* test/X_test.txt
+* test/y_train.txt
+* test/subject_test.txt
 
 The features_info.txt file describes how the 561 variables were obtained.
  
